@@ -6,6 +6,6 @@
 4. portScan.sh: Local Port scanner.
 5. htbmachines.sh: Search pwnbox htb hacked by s4vitar.
 6. cleaner.ps1: clean temporal files on Windows.
-7. famouspeople.sh: Search Famous people info using api.pantheon.world
+7. famouspeople.sh: Search Famous people info using api.pantheon.world.
 8. crtsh.py: Scan public domains using crt.sh
 
