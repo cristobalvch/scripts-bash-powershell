@@ -13,6 +13,7 @@ BASH
 8. crtsh.py: Scan public domains using crt.sh
 
 POWERSHELL
-6. cleaner.ps1: clean temporal files on Windows.
+
+1. cleaner.ps1: clean temporal files on Windows.
 
 
